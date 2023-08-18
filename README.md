@@ -1,7 +1,7 @@
 Hi 👋 My name is Satwik Misra
 =============================
 
-Senior CS Student at Northeastern
+Computer Science Student at Northeastern
 --------------------------
 
 I'm a senior at Northeastern University majoring in Computer Science with a concentration in AI. My interests lie in the financial realm and I'm constantly looking for ways to make financial education easier and more accessible. I have over a year of professional experience in full-stack development, and I have a solid AI/ML background from coursework.
